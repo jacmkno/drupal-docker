@@ -1,0 +1,6 @@
+{
+  "require": {
+    "drupal/jsonapi_extras": "^2.0"
+  }
+}
+
